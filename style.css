@@ -1,0 +1,19 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 45px; /* Sesuaikan tinggi div dengan kebutuhan Anda */
+  bottom: 0;
+  width: 100%;
+}
+.footer p {
+  text-align: center;
+  margin: 0;
+}
+/* .bg-footer {
+  background-color: #79e0ee;
+} */
+body {
+  overflow-x: hidden;
+}
