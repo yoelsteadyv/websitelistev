@@ -17,3 +17,41 @@
 body {
   overflow-x: hidden;
 }
+
+/* Tabel responsif */
+.container {
+  overflow-x: auto;
+}
+
+/* Gaya tambahan untuk tabel */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Media queries */
+/* @media screen and (max-width: 600px) {
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  th,
+  td {
+    display: block;
+    text-align: left;
+  }
+
+  td:before {
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+  } */
