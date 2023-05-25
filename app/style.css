@@ -161,7 +161,7 @@ button:hover i::after {
 
 @media (max-width: 576px) {
   .carousel.slide {
-    height: 150px !important;
+    height: 75px !important;
   }
 
   .carousel.slide .carousel-item img {
