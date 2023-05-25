@@ -141,3 +141,8 @@ button:hover i::after {
   border: 1px solid #d6faff;
   border-radius: 10px;
 }
+
+.icon {
+  width: 200px;
+  height: 200px;
+}
