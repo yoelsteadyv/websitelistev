@@ -25,7 +25,11 @@ body {
 
 /* Gaya tambahan untuk tabel */
 table {
-  width: 100%;
+  /* display: grid; */
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  width: max-content;
   border-collapse: collapse;
 }
 
